@@ -104,3 +104,10 @@ autocmd QuickFixCmdPost    l* nested lwindow
 
 " Open files as split on right
 set splitright
+
+" Show whitespaces
+set list
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+
+" Allow backspace
+set backspace=indent,eol,start
