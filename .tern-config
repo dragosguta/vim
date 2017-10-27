@@ -1,0 +1,14 @@
+{
+	"libs": [
+		"react"
+	],
+  "plugins": {
+    "node": {},
+  	"angular": {}
+	},
+  "libs": [
+    "ecma5",
+    "ecma6"
+  ],
+  "ecmaVersion": 6
+}
