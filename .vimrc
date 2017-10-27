@@ -128,6 +128,10 @@ let g:lightline = {
 " git submodule update --init --recursive
 " python3 install.py --clang-completer --js-completer
 
+" --- Typescript VIM/Tsuquyomi ---
+" cd ~/.vim/bundle/vimproc.vim
+" make
+
 " --- Syntastic ---
 let g:syntastic_check_on_open = 1
 let g:syntastic_python_checkers = ['pylint']
